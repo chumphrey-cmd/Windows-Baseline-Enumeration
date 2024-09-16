@@ -97,3 +97,5 @@ If you have suggestions for improvements or have identified bugs, please open an
 | Windows Server 2016      | **In Progress** 🟡          |
 | Windows Server 2012 R2   | **In Progress** 🟡          |
 | Windows Server 2012      | **In Progress** 🟡          |
+
+- Incorporate user selection for desired output format (e.g., **.txt, .csv , .md, .html, .json, .xml and .log**) and ensure that baseline enumeration script parses and outputs accordingly.

@@ -8,6 +8,7 @@ The `WindowsBaselineEnumeration.ps1` script is designed to perform a comprehensi
 |--------------------|----------------------------|
 | Windows 11         | **Yes** ✅                 |
 | Windows 10         | **Yes** ✅                 |
+| Windows 8.1/8      | **Yes** ✅                 |
 
 ## Features
 
@@ -89,8 +90,6 @@ If you have suggestions for improvements or have identified bugs, please open an
 
 | Windows OS Version       | Baseline Script Applicable  |
 |--------------------------|-----------------------------|
-| Windows 8.1              | **In Progress** 🟡          |
-| Windows 8                | **In Progress** 🟡          |
 | Windows 7                | **In Progress** 🟡          |
 | Windows Server 2022      | **In Progress** 🟡          |
 | Windows Server 2019      | **In Progress** 🟡          |

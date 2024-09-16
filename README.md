@@ -43,7 +43,7 @@ The `WindowsBaselineEnumeration.ps1` script is designed to perform a comprehensi
 
 4. **Run the Script:** Excecute the script by typing the following command:
     ```powershell
-    .\WindowsBaselineEnumeration.ps1
+    .\Windows11_10_BaseEnum.ps1
     ```
 
 5. **Follow the Prompts Provided:** The script will prompt you to specify the **output directory** and **descriptive file name** for the collected data.

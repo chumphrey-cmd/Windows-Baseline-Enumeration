@@ -4,10 +4,10 @@
 
 The `WindowsBaselineEnumeration.ps1` script is designed to perform a comprehensive baseline enumeration of a Windows host. This script collects various system information that can be useful for system administrators, security analysts, and IT professionals to understand the current state of a Windows machine.
 
-| Windows OS Version | Baseline Script Applicable            |
-|--------------------|---------------------------------------|
-| Windows 11         | <strong><span style="color:green">Yes</span></strong> |
-| Windows 10         | <strong><span style="color:green">Yes</span></strong> |
+| Windows OS Version | Baseline Script Applicable |
+|--------------------|----------------------------|
+| Windows 11         | **Yes** ✅                 |
+| Windows 10         | **Yes** ✅                 |
 
 ## Features
 
@@ -87,14 +87,13 @@ If you have suggestions for improvements or have identified bugs, please open an
 
 - Exapand compatiblity with the following Windows OS Versions
 
-| Windows OS Version       | Baseline Script Applicable            |
-|--------------------------|---------------------------------------|
-| Windows 8.1              | <strong><span style="color:yellow">In Progress</span></strong> |
-| Windows 8                | <strong><span style="color:yellow">In Progress</span></strong> |
-| Windows 7                | <strong><span style="color:yellow">In Progress</span></strong> |
-| Windows Server 2022      | <strong><span style="color:yellow">In Progress</span></strong> |
-| Windows Server 2019      | <strong><span style="color:yellow">In Progress</span></strong> |
-| Windows Server 2016      | <strong><span style="color:yellow">In Progress</span></strong> |
-| Windows Server 2012 R2   | <strong><span style="color:yellow">In Progress</span></strong> |
-| Windows Server 2012      | <strong><span style="color:yellow">In Progress</span></strong> |
-
+| Windows OS Version       | Baseline Script Applicable  |
+|--------------------------|-----------------------------|
+| Windows 8.1              | **In Progress** 🟡          |
+| Windows 8                | **In Progress** 🟡          |
+| Windows 7                | **In Progress** 🟡          |
+| Windows Server 2022      | **In Progress** 🟡          |
+| Windows Server 2019      | **In Progress** 🟡          |
+| Windows Server 2016      | **In Progress** 🟡          |
+| Windows Server 2012 R2   | **In Progress** 🟡          |
+| Windows Server 2012      | **In Progress** 🟡          |

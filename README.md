@@ -1,10 +1,16 @@
-# Windows 11 Baseline Host Enumeration Script
+# Windows Baseline Host Enumeration Script
 
 ## Overview
 
 The `WindowsBaselineEnumeration.ps1` script is designed to perform a comprehensive baseline enumeration of a Windows host. This script collects various system information that can be useful for system administrators, security analysts, and IT professionals to understand the current state of a Windows machine.
 
-**NOTE:** Currently **ONLY** tested for Windows 11 environments. Additional Windows OS will be added in the future.
+| Windows OS Version | Baseline Script Applicable |
+|--------------------|----------------------------|
+| Windows 11         | Yes                        |
+| Windows 10         | Yes                        |
+| Windows 8.1        | Partial                    |
+| Windows 8          | Partial                    |
+| Windows 7          | Partial                    |
 
 ## Features
 

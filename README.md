@@ -4,13 +4,10 @@
 
 The `WindowsBaselineEnumeration.ps1` script is designed to perform a comprehensive baseline enumeration of a Windows host. This script collects various system information that can be useful for system administrators, security analysts, and IT professionals to understand the current state of a Windows machine.
 
-| Windows OS Version | Baseline Script Applicable |
-|--------------------|----------------------------|
-| Windows 11         | Yes                        |
-| Windows 10         | Yes                        |
-| Windows 8.1        | Partial                    |
-| Windows 8          | Partial                    |
-| Windows 7          | Partial                    |
+| Windows OS Version | Baseline Script Applicable            |
+|--------------------|---------------------------------------|
+| Windows 11         | <strong><span style="color:green">Yes</span></strong> |
+| Windows 10         | <strong><span style="color:green">Yes</span></strong> |
 
 ## Features
 
@@ -85,3 +82,19 @@ You can customize the script to collect additional information or modify the out
 ## Contributing
 
 If you have suggestions for improvements or have identified bugs, please open an issue or submit a pull request on the repository.
+
+## Next Steps...
+
+- Exapand compatiblity with the following Windows OS Versions
+
+| Windows OS Version       | Baseline Script Applicable            |
+|--------------------------|---------------------------------------|
+| Windows 8.1              | <strong><span style="color:yellow">In Progress</span></strong> |
+| Windows 8                | <strong><span style="color:yellow">In Progress</span></strong> |
+| Windows 7                | <strong><span style="color:yellow">In Progress</span></strong> |
+| Windows Server 2022      | <strong><span style="color:yellow">In Progress</span></strong> |
+| Windows Server 2019      | <strong><span style="color:yellow">In Progress</span></strong> |
+| Windows Server 2016      | <strong><span style="color:yellow">In Progress</span></strong> |
+| Windows Server 2012 R2   | <strong><span style="color:yellow">In Progress</span></strong> |
+| Windows Server 2012      | <strong><span style="color:yellow">In Progress</span></strong> |
+
